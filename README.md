@@ -35,7 +35,8 @@ Builds upon the initial Arduino IDE discoveries to get the board working with Ci
 
 People not mentioned elsewhere on this page who have been invaluable in getting this device revitalised. Please inform us if there's someone missing here or if someone wants to be removed.
 
-- https://github.com/bensleveritt : For both being basically the sole person regularly pushing to get people stopping these from being e-waste over the last few years and setting up the Discord 
-- Middleparkers: For generously sharing dozens of Arcade Coders to developers on [Reddit](https://www.reddit.com/r/LinusTechTips/comments/1jgk9cr/how_can_i_stop_all_of_this_from_becoming_ewaste/), massively boosting the device's exposure in the process
-- https://github.com/LukeMoll : Reverse engineering work and vital electronics experise
-- https://github.com/jake-walker : Reverse engineering work and documentation
+- https://github.com/bensleveritt - For both being basically the sole person regularly pushing to get people stopping these from being e-waste over the last few years and setting up the Discord 
+- Middleparkers - For generously sharing dozens of Arcade Coders to developers on [Reddit](https://www.reddit.com/r/LinusTechTips/comments/1jgk9cr/how_can_i_stop_all_of_this_from_becoming_ewaste/), massively boosting the device's exposure in the process
+- https://github.com/LukeMoll - Reverse engineering work and vital electronics experise
+- https://github.com/jake-walker - Reverse engineering work and documentation
+- https://github.com/padraigfl - For his efforts bringing everything together, kickstarting the project, and spearheading the findings
