@@ -6,7 +6,7 @@ A repo for aggregating information, projects and whatever else relating to the A
 
 ### [Discord](https://discord.gg/mqRF4cSS)
 
-Place for asking questions quickly from other people, currently the bulk of information is here but the plan is to keep things as public as possible.
+Place for asking questions quickly from other people, currently the bulk of information is here but the plan is to keep things as public as possible. If you find something there that should be public please add it to the public wiki or Github issue.
 
 ### [Arcade Coder Wiki](https://jake-walker.github.io/rs-arcade-coder/hardware/overview/)
 
@@ -14,7 +14,7 @@ A pretty thorough overview of the key operations of the board with some great vi
 
 ### [Repo's wiki](https://github.com/padraigfl/awesome-arcade-coder/wiki)
 
-A publicly editable wiki for dropping in information as you find things, someone will tidy it up as things mature.
+A publicly editable wiki for dropping in information as you find things, will tidy it up as things mature.
 
 ### [Readme of original reverse engineering project](https://github.com/padraigfl/twsu-arcade-coder-esp32/blob/master/README.md)
 
@@ -37,11 +37,16 @@ Builds upon the initial Arduino IDE discoveries to get the board working with Ci
 
 A very promising Rust library for the Arcade Coder with demos. Currently seems to be the most optimised library for the board.
 
+### [twsu-arcade-coder-pcb](https://github.com/ColdFerrin/twsu-arcade-coder-pcb)
+
+Hardware-oriented reverse engineering project with board schematics
+
 ## Credit
 
 - https://github.com/bensleveritt - For both being basically the sole person regularly pushing to get people stopping these from being e-waste over the last few years and setting up the Discord 
-- Middleparkers - For generously sharing dozens of Arcade Coders to developers on [Reddit](https://www.reddit.com/r/LinusTechTips/comments/1jgk9cr/how_can_i_stop_all_of_this_from_becoming_ewaste/), massively boosting the device's exposure in the process
-- https://github.com/LukeMoll - Reverse engineering work and vital electronics experise
+- Middleparkers - For generously sharing dozens of Arcade Coders with developers on [Reddit](https://www.reddit.com/r/LinusTechTips/comments/1jgk9cr/how_can_i_stop_all_of_this_from_becoming_ewaste/), thereby massively boosting the device's exposure
+- https://github.com/LukeMoll - Reverse engineering work and vital electronics expertise
 - https://github.com/ItsJustAGitHubMichealWhosGonnaSeeIt5Ppl - Reverse engineering work, CircuitPython implementation
 - https://github.com/jake-walker - Reverse engineering work, Rust implementation and documentation
 - https://github.com/padraigfl - For his efforts bringing everything together, kickstarting the project, and spearheading the findings
+- https://github.com/ColdFerrin - Reverse engineering work, publishing board schematics
