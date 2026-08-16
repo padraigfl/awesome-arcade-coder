@@ -41,6 +41,10 @@ A very promising Rust library for the Arcade Coder with demos. Currently seems t
 
 Hardware-oriented reverse engineering project with board schematics
 
+### [LightyCoderDoodad](https://github.com/diggedypomme/LightyCoderDoodad/)
+
+Major steps towards replicating original functionality via Android and desktop tools for controller the Arcade Coder's stock firmware (i.e. a software only solution). Direct control of the board's display and sending of games directly to the board.
+
 ## Credit
 
 - https://github.com/bensleveritt - For both being basically the sole person regularly pushing to get people stopping these from being e-waste over the last few years and setting up the Discord 
@@ -50,3 +54,4 @@ Hardware-oriented reverse engineering project with board schematics
 - https://github.com/jake-walker - Reverse engineering work, Rust implementation and documentation
 - https://github.com/padraigfl - For his efforts bringing everything together, kickstarting the project, and spearheading the findings
 - https://github.com/ColdFerrin - Reverse engineering work, publishing board schematics
+- https://github.com/diggedypomme - For developing a software based solution so people don't have to open up their board to get any use out of it
