@@ -45,6 +45,19 @@ Hardware-oriented reverse engineering project with board schematics
 
 Major steps towards replicating original functionality via Android and desktop tools for controller the Arcade Coder's stock firmware (i.e. a software only solution). Direct control of the board's display and sending of games directly to the board.
 
+### [arcade-coder-games](https://github.com/hansstam86/arcade-coder-games)
+
+Mac-driven platform on **stock firmware** (no disassembly): 10 games with an
+on-board menu, a Python SDK with a zero-dependency browser emulator, and
+[Arcade Coder Studio](https://hansstam86.github.io/arcade-coder-games/) — a
+web IDE (real Python via Pyodide) that can drive a real board over Web
+Bluetooth straight from the page. Also: a configurable Stream Deck mode, a
+MIDI controller / step sequencer / visualizer suite for the Teenage
+Engineering EP-133, a system-audio equalizer, and ambient modes. The README
+documents protocol findings (macOS needs write-with-response; module
+switching wedges until power cycle; uploaded-game JS `dead strip` builtins;
+no accelerometer data over BLE).
+
 ## Credit
 
 - https://github.com/bensleveritt - For both being basically the sole person regularly pushing to get people stopping these from being e-waste over the last few years and setting up the Discord 
